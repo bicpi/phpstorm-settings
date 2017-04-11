@@ -1,0 +1,55 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Dockerfile.*" type="Dockerfile" />
+      <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern="ssh-config" type="PLAIN_TEXT" />
+      <mapping pattern="composer" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="cronic" type="PLAIN_TEXT" />
+      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
+      <mapping pattern=".dosxer_init" type="PLAIN_TEXT" />
+      <mapping pattern="sasl_passwd" type="PLAIN_TEXT" />
+      <mapping pattern="aws_credentials" type="PLAIN_TEXT" />
+      <mapping pattern="certificate" type="PLAIN_TEXT" />
+      <mapping pattern="sudoer" type="PLAIN_TEXT" />
+      <mapping pattern="serv-disc" type="PLAIN_TEXT" />
+      <mapping pattern="files/ssh-config" type="PLAIN_TEXT" />
+      <mapping pattern="aws_config" type="PLAIN_TEXT" />
+      <mapping pattern="test~" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="cd" type="PLAIN_TEXT" />
+      <mapping pattern="generic" type="PLAIN_TEXT" />
+      <mapping pattern="localhost" type="PLAIN_TEXT" />
+      <mapping pattern="ottonova" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern="init-certs" type="PLAIN_TEXT" />
+      <mapping pattern="files" type="PLAIN_TEXT" />
+      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="renew-certs" type="PLAIN_TEXT" />
+      <mapping pattern="docker-php-pecl-install" type="PLAIN_TEXT" />
+      <mapping pattern="files/aws_config" type="PLAIN_TEXT" />
+      <mapping pattern=".env.unit" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod.dist" type="PLAIN_TEXT" />
+      <mapping pattern="deploy_authorized_keys" type="PLAIN_TEXT" />
+      <mapping ext="de" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="ctmpl" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="html-stage" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="id" type="PLAIN_TEXT" />
+      <mapping ext="test-overrides" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping pattern="Guildfile" type="TOML file" />
+    </extensionMap>
+  </component>
+</application>
