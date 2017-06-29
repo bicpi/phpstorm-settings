@@ -7,9 +7,7 @@
       <mapping pattern="environment" type="PHP" />
       <mapping pattern="insiders" type="PHP" />
       <mapping pattern="create-env" type="PHP" />
-      <mapping pattern="host_vars/all" type="PLAIN_TEXT" />
       <mapping pattern="php-cs-fixer" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="json-cs-fixer" type="PLAIN_TEXT" />
@@ -21,15 +19,18 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="burroughs" type="PLAIN_TEXT" />
       <mapping pattern="supervisord-scan-1g" type="PLAIN_TEXT" />
-      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="supervisord-scan-g" type="PLAIN_TEXT" />
       <mapping pattern="build" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern=".json_cs" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="scans" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="host_vars/all" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="staging-overrides" type="PLAIN_TEXT" />
