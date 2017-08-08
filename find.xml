@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="environment.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +16,19 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*Interface.php</mask>
+      <mask>e</mask>
+      <mask>en</mask>
+      <mask>env</mask>
+      <mask>envi</mask>
+      <mask>envir</mask>
+      <mask>enviro</mask>
+      <mask>environ</mask>
+      <mask>environm</mask>
+      <mask>environmen</mask>
+      <mask>environment</mask>
+      <mask>environment.</mask>
+      <mask>environment.y</mask>
+      <mask>environment.yml</mask>
     </recentFileMasks>
   </component>
 </application>
