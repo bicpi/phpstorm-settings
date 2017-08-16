@@ -10,6 +10,7 @@
       <mapping pattern="emt" type="PHP" />
       <mapping pattern="create-env" type="PHP" />
       <mapping pattern="php-cs-fixer" type="PLAIN_TEXT" />
+      <mapping pattern="build-version" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="json-cs-fixer" type="PLAIN_TEXT" />
