@@ -46,4 +46,10 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="_t" value="/**&#10; * @test&#10; */&#10;public function it_$DOES$()&#10;{&#10;    $END$&#10;}" description="Constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="DOES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
