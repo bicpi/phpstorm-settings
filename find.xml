@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="swagger.json" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -32,6 +29,12 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.json</mask>
+      <mask>.json</mask>
+      <mask>s.json</mask>
+      <mask>swa.json</mask>
+      <mask>swag.json</mask>
+      <mask>swagg.json</mask>
+      <mask>swagger.json</mask>
     </recentFileMasks>
   </component>
 </application>
