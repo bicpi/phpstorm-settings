@@ -58,4 +58,11 @@
       <option name="PHP Expression" value="true" />
     </context>
   </template>
+  <template name="tc" value="try {&#10;    $TRY$&#10;} catch($EXCEPTION$ $e) {&#10;    $END$&#10;}" description="try/catch statement" toReformat="false" toShortenFQNames="true">
+    <variable name="TRY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXCEPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
