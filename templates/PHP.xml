@@ -53,7 +53,7 @@
     </context>
   </template>
   <template name="_a" value="static::assert$TYPE$($END$);" description="assert" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="Same" alwaysStopAt="true" />
     <context>
       <option name="PHP Expression" value="true" />
     </context>
