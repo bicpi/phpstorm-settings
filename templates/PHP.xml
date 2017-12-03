@@ -40,7 +40,7 @@
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="_c" value="/**&#10; * Constructor.&#10; */&#10;public function __construct($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="Constructor" toReformat="false" toShortenFQNames="true">
+  <template name="_c" value="public function __construct($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="Constructor" toReformat="false" toShortenFQNames="true">
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
