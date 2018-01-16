@@ -2,17 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="services.yml" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>*Interface.php</mask>
-      <mask>e</mask>
-      <mask>en</mask>
-      <mask>env</mask>
       <mask>envi</mask>
       <mask>envir</mask>
       <mask>enviro</mask>
@@ -34,6 +28,15 @@
       <mask>swag.json</mask>
       <mask>swagg.json</mask>
       <mask>swagger.json</mask>
+      <mask>s</mask>
+      <mask>ser</mask>
+      <mask>serv</mask>
+      <mask>servi</mask>
+      <mask>service</mask>
+      <mask>services</mask>
+      <mask>services.</mask>
+      <mask>services.y</mask>
+      <mask>services.yml</mask>
     </recentFileMasks>
   </component>
 </application>
