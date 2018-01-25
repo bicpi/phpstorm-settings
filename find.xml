@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="swagger.json" />
     <recentFileMasks>
-      <mask>envi</mask>
-      <mask>envir</mask>
-      <mask>enviro</mask>
-      <mask>environ</mask>
       <mask>environm</mask>
       <mask>environmen</mask>
       <mask>environment</mask>
@@ -24,7 +21,6 @@
       <mask>swa.json</mask>
       <mask>swag.json</mask>
       <mask>swagg.json</mask>
-      <mask>swagger.json</mask>
       <mask>s</mask>
       <mask>ser</mask>
       <mask>serv</mask>
@@ -34,6 +30,11 @@
       <mask>services.</mask>
       <mask>services.y</mask>
       <mask>services.yml</mask>
+      <mask>swa</mask>
+      <mask>swag</mask>
+      <mask>swagg</mask>
+      <mask>swagger</mask>
+      <mask>swagger.json</mask>
     </recentFileMasks>
   </component>
 </application>
