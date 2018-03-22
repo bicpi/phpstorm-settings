@@ -46,7 +46,7 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="_t" value="/**&#10; * @test&#10; */&#10;public function it_$DOES$()&#10;{&#10;    $END$&#10;}" description="Test" toReformat="false" toShortenFQNames="true">
+  <template name="_t" value="/**&#10; * @test&#10; */&#10;public function it_$DOES$(): void&#10;{&#10;    $END$&#10;}" description="Test" toReformat="false" toShortenFQNames="true">
     <variable name="DOES" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
@@ -63,6 +63,11 @@
     <variable name="EXCEPTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="_s" value="public function __toString(): string&#10;{&#10;    $END$&#10;}" description="toString" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
     </context>
   </template>
 </templateSet>
