@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>environm</mask>
-      <mask>environmen</mask>
-      <mask>environment</mask>
-      <mask>environment.</mask>
-      <mask>environment.y</mask>
-      <mask>environment.yml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.json</mask>
-      <mask>.json</mask>
-      <mask>s.json</mask>
-      <mask>swa.json</mask>
-      <mask>swag.json</mask>
-      <mask>swagg.json</mask>
-      <mask>s</mask>
-      <mask>ser</mask>
-      <mask>serv</mask>
-      <mask>servi</mask>
-      <mask>service</mask>
-      <mask>services</mask>
-      <mask>services.</mask>
-      <mask>services.y</mask>
-      <mask>services.yml</mask>
-      <mask>swa</mask>
-      <mask>swag</mask>
-      <mask>swagg</mask>
-      <mask>swagger</mask>
-      <mask>swagger.json</mask>
-    </recentFileMasks>
   </component>
 </application>
