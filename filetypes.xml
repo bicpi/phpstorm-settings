@@ -26,6 +26,7 @@
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern="foobar/sample" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="alreadyDoneOnStaging" type="PLAIN_TEXT" />
       <mapping pattern="burroughs" type="PLAIN_TEXT" />
       <mapping pattern="supervisord-scan-1g" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
@@ -43,6 +44,7 @@
       <mapping ext="tab" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
+      <mapping ext="live" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping pattern="Guildfile" type="TOML file" />
