@@ -50,6 +50,7 @@
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="live" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="dev-overrides" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping pattern="Guildfile" type="TOML file" />
     </extensionMap>
