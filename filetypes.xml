@@ -27,6 +27,7 @@
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern="foobar/sample" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="LoginRequest.php" type="PLAIN_TEXT" />
       <mapping pattern="alreadyDoneOnStaging" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="burroughs" type="PLAIN_TEXT" />
