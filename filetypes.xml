@@ -14,10 +14,12 @@
       <mapping pattern="welcome-customers" type="PHP" />
       <mapping pattern="php-cs-fixer" type="PLAIN_TEXT" />
       <mapping pattern="build-version" type="PLAIN_TEXT" />
+      <mapping pattern="bla" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping pattern="json-cs-fixer" type="PLAIN_TEXT" />
+      <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
