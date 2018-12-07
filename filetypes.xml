@@ -12,13 +12,13 @@
       <mapping pattern="emt" type="PHP" />
       <mapping pattern="create-env" type="PHP" />
       <mapping pattern="welcome-customers" type="PHP" />
-      <mapping pattern="host_vars/all" type="PLAIN_TEXT" />
       <mapping pattern="php-cs-fixer" type="PLAIN_TEXT" />
-      <mapping pattern="bla" type="PLAIN_TEXT" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern="json-cs-fixer" type="PLAIN_TEXT" />
-      <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping pattern="build-version" type="PLAIN_TEXT" />
+      <mapping pattern="bla" type="PLAIN_TEXT" />
+      <mapping pattern="apple" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
+      <mapping pattern="json-cs-fixer" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
@@ -40,10 +40,11 @@
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="scans" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="host_vars/all" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="tab" type="PLAIN_TEXT" />
       <mapping ext="base" type="PLAIN_TEXT" />
