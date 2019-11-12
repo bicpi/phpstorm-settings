@@ -44,6 +44,7 @@
       <mapping pattern="apple" type="PLAIN_TEXT" />
       <mapping pattern="burroughs" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
