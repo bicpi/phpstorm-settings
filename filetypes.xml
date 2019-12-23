@@ -58,9 +58,8 @@
       <mapping ext="backp" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="lock~" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="Guildfile" type="TOML" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
