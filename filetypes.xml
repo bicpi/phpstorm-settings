@@ -15,7 +15,6 @@
       <mapping pattern="build-version" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
-      <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="json-cs-fixer" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
@@ -27,6 +26,7 @@
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="bla" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="burroughs" type="PLAIN_TEXT" />
       <mapping pattern="supervisord-scan-1g" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
