@@ -75,7 +75,7 @@
       <option name="PHP Expression" value="true" />
     </context>
   </template>
-  <template name="uuid" value="$VALUE$" toReformat="false" toShortenFQNames="true">
+  <template name="uuid" value="$VALUE$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VALUE" expression="groovyScript(&quot;java.util.UUID.randomUUID() as String&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
