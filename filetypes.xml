@@ -49,6 +49,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="base" type="PLAIN_TEXT" />
       <mapping ext="backp" type="PLAIN_TEXT" />
+      <mapping ext="acceptance" type="PLAIN_TEXT" />
       <mapping ext="lock~" type="PLAIN_TEXT" />
       <mapping ext="dev-overrides" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
