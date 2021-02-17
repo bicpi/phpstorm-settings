@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="swagger.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +19,6 @@
     <mask>.unison*</mask>
     <mask>*.yml</mask>
     <mask>*</mask>
+    <mask>swagger.json</mask>
   </component>
 </application>
